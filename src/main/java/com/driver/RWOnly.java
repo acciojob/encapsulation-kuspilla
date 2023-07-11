@@ -10,4 +10,8 @@ public class RWOnly {
        return this.name;
    }
 
+    public static void main(String[] args) {
+
+    }
+
 }
