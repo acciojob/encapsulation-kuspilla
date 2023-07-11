@@ -6,9 +6,8 @@ public class Main {
         RWOnly person = new RWOnly();
 
         // String name = person.member;
-        // you con not directly access private variable using setters and getters function
 
-        person.Setvariable("dasthu");
+        person.Setvariable("p");
         System.out.println(person.Getvariable());
 
 
