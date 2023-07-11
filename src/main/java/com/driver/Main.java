@@ -5,10 +5,10 @@ public class Main {
 
         RWOnly person = new RWOnly();
 
-        // person.name = "p";
+//         person.name = "p";
 
-        person.Setters("p");
-        System.out.println(person.Getters());
+        person.setName("p");
+        System.out.println(person.getName());
 
 
           }
