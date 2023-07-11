@@ -5,7 +5,7 @@ public class Main {
 
         RWOnly person = new RWOnly();
 
-        // p.name = "p";
+        // person.name = "p";
 
         person.Setters("p");
         System.out.println(person.Getters());
